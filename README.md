@@ -9,6 +9,9 @@ Projeto desenvolvido durante o Bootcamp SPTech Desenvolvimento Front-end promovi
 Requisitos e Documentações
 
 Gerar a API KEY no Coin Market Cap - Portal do desenvolvedor
+
 Documentação para consulta Coin Market Cap - Documentação de autenticação
+
 Documentação para consulta Coin Market Cap - Documentação API
+
 Instalar e Habilitar a extensão para Chrome Moesif Origin & CORS Changer
