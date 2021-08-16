@@ -10,8 +10,8 @@ Requisitos e Documentações
 
 Gerar a API KEY no Coin Market Cap - Portal do desenvolvedor https://pro.coinmarketcap.com/account
 
-Documentação para consulta Coin Market Cap - Documentação de autenticação
+Documentação para consulta Coin Market Cap - Documentação de autenticação https://coinmarketcap.com/api/documentation/v1/#section/Authentication
 
-Documentação para consulta Coin Market Cap - Documentação API
+Documentação para consulta Coin Market Cap - Documentação API https://coinmarketcap.com/api/documentation/v1/#
 
-Instalar e Habilitar a extensão para Chrome Moesif Origin & CORS Changer
+Instalar e Habilitar a extensão para Chrome Moesif Origin & CORS Changer https://chrome.google.com/webstore/detail/moesif-origin-cors-change/digfbfaphojjndkpccljibejjbppifbc
