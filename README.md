@@ -8,7 +8,7 @@ Sobre
 Projeto desenvolvido durante o Bootcamp SPTech Desenvolvimento Front-end promovido pela DIO
 Requisitos e Documentações
 
-Gerar a API KEY no Coin Market Cap - Portal do desenvolvedor <href="https://pro.coinmarketcap.com/account" />
+Gerar a API KEY no Coin Market Cap - Portal do desenvolvedor https://pro.coinmarketcap.com/account
 
 Documentação para consulta Coin Market Cap - Documentação de autenticação
 
